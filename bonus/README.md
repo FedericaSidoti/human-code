@@ -33,3 +33,9 @@ Durante le vacanze ho fatto mille mila foto, ora come faccio a scegliere quella 
             - Apri Spotify e usa la prima delle canzoni in top ten
     - Pubblica la tua foto modificata e completa di tutto. 
 
+    Questo manuale di alta scienza Instagram-wise è stato ideato, scritto e committato con la collaborazione equa e democratica di: 
+        - Federica Sidoti da Dorne
+        - Federico Maiocchi da Minas Tirith
+        - Davide Cavallotto da Diagon Alley 
+        - Nicola Tabai dal Paese dei Balocchi 
+
