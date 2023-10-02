@@ -9,10 +9,10 @@ Durante le vacanze ho fatto mille mila foto, ora come faccio a scegliere quella 
     - Selezionare l'album delle foto di paesaggi scattate in vacanza
     - Guardare una foto alla volta
         - FINCHE' ci sono foto
-        - SE la foto che sto guardando è sfocata
-            - ALLORA eliminarla
-        - ALTRIMENTI
-            - assegnare un voto alla foto a seconda di quanto mi piace
+            - SE la foto che sto guardando è sfocata
+                - ALLORA eliminarla
+            - ALTRIMENTI
+                - assegnare un voto alla foto a seconda di quanto mi piace
     - Trovare la foto col voto più alto
         - SE due o più foto hanno lo stesso voto 
             - ALLORA chiedi di scegliere ad un* amic* con tanti follower 
