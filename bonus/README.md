@@ -8,7 +8,7 @@ Durante le vacanze ho fatto mille mila foto, ora come faccio a scegliere quella 
     - Aprire la galleria
     - Selezionare l'album delle foto di paesaggi scattate in vacanza
     - Guardare una foto alla volta
-        -FINCHE' ci sono foto
+        - FINCHE' ci sono foto
         - SE la foto che sto guardando è sfocata
             - ALLORA eliminarla
         - ALTRIMENTI
