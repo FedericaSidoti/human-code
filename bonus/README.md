@@ -14,22 +14,22 @@ Durante le vacanze ho fatto mille mila foto, ora come faccio a scegliere quella 
         - ALTRIMENTI
             - assegnare un voto alla foto a seconda di quanto mi piace
     - Trovare la foto col voto più alto
-        -SE due o più foto hanno lo stesso voto 
-            -ALLORA chiedi di scegliere ad un* amic* con tanti follower 
+        - SE due o più foto hanno lo stesso voto 
+            - ALLORA chiedi di scegliere ad un* amic* con tanti follower 
 - ## Scegliere il filtro più adatto alla foto 
     - Aprire Instagram 
     - Caricare la foto nelle bozze
     - Provare ognuno dei filtri disponibili
     - Dare un voto a ciascuna versione della foto filtrata 
-        -SE due o più foto hanno lo stesso voto 
-            -ALLORA chiedi di scegliere ad un* amic* con tanti follower 
+        - SE due o più foto hanno lo stesso voto 
+            - ALLORA chiedi di scegliere ad un* amic* con tanti follower 
 - ## Caricare la foto modificata su Instagram
     - Scegli una didascalia adatta al panorama
         - SE non ti viene niente 
-            -Apri aforismi.com e prendi il primo come didascalia
+            - Apri aforismi.com e prendi il primo come didascalia
     - Tagga il luogo ed eventuali amici
     - Associa una canzone del momento 
-        -SE non ti viene niente 
+        - SE non ti viene niente 
             - Apri Spotify e usa la prima delle canzoni in top ten
     - Pubblica la tua foto modificata e completa di tutto. 
 
